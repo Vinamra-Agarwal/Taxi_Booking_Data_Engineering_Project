@@ -1,0 +1,15 @@
+{
+	"name": "adf-uberproject-vinamra",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4e940a56-e6ff-44f0-9597-c3f6c55a1336",
+		"tenantId": "ab5ef097-5e78-431b-b608-c9103e49aa95"
+	}
+}
